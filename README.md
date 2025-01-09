@@ -1,7 +1,6 @@
 # Mis Navidades 2024
 
-Este repositorio es un diario sobre lo que hice estas Navidades de 2024. Desde reuniones familiares hasta momentos tranquilos, aquí documenté mis recuerdos más destacados.
-
+Este repositorio es un diario sobre lo que hice estas Navidades de 2024.
 ## 🎄 Preparativos
 
 1. **Decoración Navideña**  
