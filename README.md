@@ -25,7 +25,7 @@ Este repositorio es un diario sobre lo que hice estas Navidades de 2024.
 
 - Paseé por Alzira 
 - No fuí a clase
-## 📸 Galería (pendiente)
+## 📸 Galería
 
 ![Navidades](https://i.ytimg.com/vi/GVpyMsO13pE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDUcvhYvvPawI4Ud5pGHd6Bv5s1nQ "Pedrito")
 ![Navidades](https://www.periodistadigital.com/wp-content/uploads/2019/12/WhatsApp-Image-2019-12-26-at-13.33.55.jpeg "Pedrito")
