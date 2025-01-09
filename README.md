@@ -7,8 +7,7 @@ Este repositorio es un diario sobre lo que hice estas Navidades de 2024.
    - Puse luces en el árbol de Navidad y decoré con adornos.
    
 2. **Compra de Regalos**  
-   - Planifiqué con antelación para comprar regalos personalizados para mis padres.
-
+   -Compre regalo para mis padres
 ## 🎉 Celebraciones
 
 1. **Nochebuena**  
